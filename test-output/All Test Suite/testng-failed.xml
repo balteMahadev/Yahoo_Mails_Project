@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.mails.summery.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="C:/Users/mahadev.b/IdeaProjects/Yahoo_Mails_Project/src/main/java/com/mails/summery/TestClass.java(failed)">
+    <classes>
+      <class name="com.mails.summery.TestClass">
+        <methods>
+          <include name="EnterUserName"/>
+          <include name="EnterPassword"/>
+          <include name="CheckUserIsValidOrNot"/>
+          <include name="CheckPasswordValidOrNot"/>
+          <include name="EnterIntoCsvFile"/>
+          <include name="Read_Properties"/>
+          <include name="runUrlAndCheckPageTitle"/>
+          <include name="ClickOnMailsButton"/>
+          <include name="Read_All_Mails"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.mails.summery.TestClass -->
+    </classes>
+  </test> <!-- C:/Users/mahadev.b/IdeaProjects/Yahoo_Mails_Project/src/main/java/com/mails/summery/TestClass.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

@@ -1,0 +1,10 @@
+[INFO ] 2022-01-24 22:43:33.635 [main] TestClass - url lunched
+[INFO ] 2022-01-24 22:43:33.636 [main] TestClass - Title Matched
+[INFO ] 2022-01-24 22:43:33.881 [main] TestClass - User Name Entered is  :tchmahadev@yahoo.com
+[INFO ] 2022-01-24 22:43:44.532 [main] TestClass - Valid User
+[INFO ] 2022-01-24 22:43:48.873 [main] TestClass - User Name Password is  :Atmecs@123
+[INFO ] 2022-01-24 22:43:59.513 [main] TestClass - Valid password
+[INFO ] 2022-01-24 22:44:04.628 [main] TestClass - Clicked on Mail icon
+[INFO ] 2022-01-24 22:44:07.301 [main] TestClass - Entered into all in inbox mails
+[INFO ] 2022-01-24 22:44:07.304 [main] TestClass - Data entered into csv file
+[INFO ] 2022-01-24 22:44:07.556 [main] TestClass - Browser closed
